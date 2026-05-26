@@ -1,0 +1,6 @@
+{
+  "name": "Kinetic",
+  "description": "Premium AI-powered movement & digital discipline system. Lock doom scrolling apps and pay your tax by moving to earn attention back.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
